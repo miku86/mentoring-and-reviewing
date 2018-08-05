@@ -19,4 +19,5 @@ Most of the Time, you’ll solve your Problem after just one or two Steps of thi
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 - [FreeCodeCamp Forum](https://forum.freecodecamp.org/)
 - [Stack Overflow](https://stackoverflow.com/)
+- [Carol Dweck - Mindset (Summary)](https://alexvermeer.com/why-your-mindset-important/)
 - [Original Source](https://forum.freecodecamp.org/t/how-to-get-help-when-you-are-stuck/)
